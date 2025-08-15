@@ -7,7 +7,7 @@ I'm a **web developer** skilled in **HTML, CSS, JavaScript**, and **AWS services
 I’m highly **motivated, adaptable, and empathetic**, and I enjoy learning new technologies like **Python** and **Generative AI**.  
 When I’m not coding, I love **graphic designing**, exploring **new tools**, and **creative learning** 💡.
 
-- ## 🔭 Completed Projects
+- ## 🔭 Completed 
 🚀 **Generative AI project on AWS Bedrock** – explored AI capabilities using AWS services
 
 - ## 🌱 I am currently Learning
