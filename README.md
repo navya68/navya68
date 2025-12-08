@@ -11,7 +11,8 @@ When I’m not coding, I love **graphic designing**, exploring **new tools**, an
 🚀 **Generative AI project on AWS Bedrock** – explored AI capabilities using AWS services
 
 - ## 🌱 I am currently Learning
-   - 🐍 Advanced **Python programming**  
+   - 🐍 Advanced **Python programming**
+   - Agentic AI 
    - 🤖 **Generative AI** development  
    - ☁️ **Cloud computing** concepts
 
