@@ -24,28 +24,43 @@ Explored AI-generated content creation using prompt engineering and serverless A
 
 ---
 
-## 🛠️ Skills
+## 🧠 Core Skills
 
-### AI & Cloud
-- Generative AI  
-- Prompt Engineering  
-- AWS Bedrock  
-- Serverless Basics  
+### 🤖 AI & Cloud
+- Generative AI (content generation & experimentation)
+- Prompt Engineering (tone, clarity, output control)
+- AWS Bedrock
+- Serverless Architecture (Lambda, API basics)
+- Cloud Fundamentals (AWS)
 
-### Web & UI
-- HTML  
-- CSS  
-- JavaScript  
+---
 
-### Design & Creativity
-- Figma  
-- Photoshop  
+### ☁️ DevOps & Automation (Foundational)
+- Git & GitHub (version control, collaboration)
+- Linux Basics
+- Cloud Deployment Basics
+- Automation Workflows (introductory)
 
-### Soft Skills
-- Empathy  
-- Adaptability  
-- Creativity  
-- Teamwork
+---
+
+### 🌐 Web & UI Development
+- HTML (semantic & structured)
+- CSS (responsive layouts)
+- JavaScript (basics)
+
+---
+
+### 🎨 Design & Creativity
+- Figma (UI exploration & layouts)
+- Photoshop (basic design & edits)
+
+---
+
+### 🌱 Professional Strengths
+- Empathy & user-first thinking
+- Adaptability & fast learning
+- Creativity in problem-solving
+- Team collaboration
 
 - ## 📊 GitHub Stats
 ![Navya Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=navya68&show_icons=true&theme=radical)  
