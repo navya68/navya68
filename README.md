@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navyasreer)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sreenavya443)
+
+
 I’m an **AI & Cloud enthusiast** interested in how **Generative AI can create human-centered, empathetic communication experiences**. I enjoy experimenting with prompts, narratives, and AI-generated content to understand how technology can influence user behavior in a positive way.
 
 I’m especially curious about **AI storytelling, habit-building communication, and UX-focused content**, particularly in fintech and real-world products.
