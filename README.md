@@ -65,7 +65,6 @@ Explored AI-generated content creation using prompt engineering and serverless A
 - Creativity in problem-solving
 - Team collaboration
 
-- ## 📊 GitHub Stats
+<!-- - ## 📊 GitHub Stats
 ![Navya Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=navya68&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navya68&layout=compact&theme=radical)
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navya68&layout=compact&theme=radical) -->
