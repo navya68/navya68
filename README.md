@@ -5,9 +5,9 @@
 
 
 
-I’m an **AI & Cloud enthusiast** interested in how **Generative AI can create human-centered, empathetic communication experiences**. I enjoy experimenting with prompts, narratives, and AI-generated content to understand how technology can influence user behavior in a positive way.
+**AI & Cloud enthusiast** working on Generative AI, cloud infrastructure, and automation. I explore DevOps practices, CI/CD pipelines, and containerized systems to build reliable and scalable platforms. Passionate about understanding how AI and cloud technologies power real-world applications.
 
-I’m especially curious about **AI storytelling, habit-building communication, and UX-focused content**, particularly in fintech and real-world products.
+Skilled in collaborating with teams, understanding perspectives, and continuously improving myself to solve problems effectively. Strong interpersonal and intrapersonal abilities complement my technical expertise.
 
 ---
 
@@ -20,10 +20,10 @@ Explored AI-generated content creation using prompt engineering and serverless A
 
 ## 🌱 Currently Learning
 
-- Prompt Engineering & Generative AI Development  
-- Agentic AI (introductory)  
-- Advanced Python Programming  
-- Cloud Computing Concepts  
+
+- **DevOps & Cloud:** CI/CD, Docker, Kubernetes (introductory), Cloud infrastructure & automation, Observability & system monitoring
+- Advanced Python & Shell scripting
+- **Generative AI & AI Agents:** Prompt engineering, Agentic AI (introductory) 
 
 ---
 
