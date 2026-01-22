@@ -13,8 +13,8 @@ Skilled in collaborating with teams, understanding perspectives, and continuousl
 
 ## 🔭 Projects & Exploration
 
-🚀 **Generative AI Project using AWS Bedrock**  
-Explored AI-generated content creation using prompt engineering and serverless AWS services, with a focus on clarity, tone, and usefulness of AI outputs.
+🚀 **AWS-Powered Generative AI Blog System**
+Built a hands-on project exploring AI-generated content creation using AWS Bedrock and serverless services like AWS Lambda, S3, and API Gateway. Used Postman to test and interact with APIs, ensuring smooth communication between the frontend and AI backend. Focused on prompt engineering to guide AI models for producing clear, useful, and well-structured outputs. Implemented workflows to handle inputs, generate responses, and store results efficiently. Learned how to combine cloud infrastructure with AI capabilities to build scalable, reliable, and human-centered solutions
 
 ---
 
