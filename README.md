@@ -21,9 +21,9 @@ Built a hands-on project exploring AI-generated content creation using AWS Bedro
 ## 🌱 Currently Learning
 
 
-- **DevOps & Cloud:** CI/CD, Docker, Kubernetes (introductory), Cloud infrastructure & automation, Observability & system monitoring
-- Advanced Python & Shell scripting
-- **Generative AI & AI Agents:** Prompt engineering, Agentic AI (introductory) 
+- **DevOps & Cloud:** CI/CD pipelines, Docker, Kubernetes (introductory), cloud infrastructure & automation, observability & system monitoring
+- **Advanced Python & Scripting:** Python (advanced), Shell scripting
+- **Generative AI & AI Agents:** Prompt engineering, building AI agents (in-progress), integrating AI with external tools 
 
 ---
 
