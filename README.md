@@ -5,9 +5,11 @@
 
 
 
-**AI & Cloud enthusiast** working on Generative AI, cloud infrastructure, and automation. I explore DevOps practices, CI/CD pipelines, and containerized systems to build reliable and scalable platforms. Passionate about understanding how AI and cloud technologies power real-world applications.
+**AI & Cloud enthusiast** with a growing focus on Agentic AI and Generative AI, building intelligent systems that can automate tasks and make decisions. I explore how AI agents, cloud infrastructure, and automation work together to solve real-world problems.
 
-Skilled in collaborating with teams, understanding perspectives, and continuously improving myself to solve problems effectively. Strong interpersonal and intrapersonal abilities complement my technical expertise.
+I have hands-on experience with cloud technologies and enjoy learning how they support scalable AI applications. I am actively exploring agent-based systems, prompt engineering, and AI-driven workflows.
+
+Passionate about continuous learning, I bring strong collaboration skills, adaptability, and a problem-solving mindset. My ability to understand different perspectives and improve consistently helps me contribute effectively to team environments and build impactful solutions.
 
 ---
 
@@ -20,18 +22,17 @@ Built a hands-on project exploring AI-generated content creation using AWS Bedro
 
 ## 🌱 Currently Learning
 
-
-- **DevOps & Cloud:** CI/CD pipelines, Docker, Kubernetes (introductory), cloud infrastructure & automation, observability & system monitoring
 - **Advanced Python & Scripting:** Python (advanced), Shell scripting
-- **Generative AI & AI Agents:** Prompt engineering, building AI agents (in-progress), integrating AI with external tools 
+- **Generative AI & AI Agents:** Prompt engineering, building AI agents (in-progress), integrating AI with external tools
+- **DevOps & Cloud:** CI/CD pipelines, Docker, Kubernetes (introductory), cloud infrastructure & automation, observability & system monitoring
 
 ---
 
 ## 🧠 Core Skills
 
 ### 🤖 AI & Cloud
-- Generative AI (content generation & experimentation)
 - Prompt Engineering (tone, clarity, output control)
+- Agentic AI
 - AWS Bedrock
 - Serverless Architecture (Lambda, API basics)
 - Cloud Fundamentals (AWS)
